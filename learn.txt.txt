@@ -1,0 +1,15 @@
+process.argv[2]
+js run outside the browser use node
+
+node.js bindings
+node.js APIs
+libuv and v8 important part of node js
+
+js code -> v8 -> node.js APIs -> node.js bindings -> libuv -> output
+
+github.com/nodejs/node
+
+js is a synchronous
+js is single threaded language
+
+spider monkey: first js engine
